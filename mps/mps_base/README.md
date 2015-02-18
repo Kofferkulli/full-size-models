@@ -4,7 +4,7 @@
 
 ### mps_base
 
-![mps_base](mps/mps_base/preview.png)
+![mps_base](preview.png)
 
-* [mps_base.wrl](mps/mps_base/mps_base.wrl?raw=true)
+* [mps_base.wrl](mps_base.wrl?raw=true)
 

@@ -6,24 +6,24 @@
 
 ### mps_base
 
-![mps_base](mps/mps_base/preview.png)
+![mps_base](mps_base/preview.png)
 
-* [mps_base.wrl](mps/mps_base/mps_base.wrl?raw=true)
+* [mps_base.wrl](mps_base/mps_base.wrl?raw=true)
 
 ### mps_cap
 
 
-* [mps_cap.wrl](mps/mps_cap/mps_cap.wrl?raw=true)
+* [mps_cap.wrl](mps_cap/mps_cap.wrl?raw=true)
 
 ### mps_delivery
 
-![mps_delivery](mps/mps_delivery/preview.png)
+![mps_delivery](mps_delivery/preview.png)
 
-* [mps_delivery.wrl](mps/mps_delivery/mps_delivery.wrl?raw=true)
+* [mps_delivery.wrl](mps_delivery/mps_delivery.wrl?raw=true)
 
 ### mps_ring
 
-![mps_ring](mps/mps_ring/preview.png)
+![mps_ring](mps_ring/preview.png)
 
-* [mps_ring.wrl](mps/mps_ring/mps_ring.wrl?raw=true)
+* [mps_ring.wrl](mps_ring/mps_ring.wrl?raw=true)
 

@@ -4,7 +4,7 @@
 
 ### gripper_full
 
-![gripper_full](gripper/gripper_full/preview.png)
+![gripper_full](preview.png)
 
-* [gripper_full.wrl](gripper/gripper_full/gripper_full.wrl?raw=true)
+* [gripper_full.wrl](gripper_full.wrl?raw=true)
 

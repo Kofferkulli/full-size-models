@@ -4,7 +4,7 @@
 
 ### gripper_switch
 
-![gripper_switch](gripper/gripper_switch/preview.png)
+![gripper_switch](preview.png)
 
-* [gripper_switch.dae](gripper/gripper_switch/gripper_switch.dae?raw=true)
+* [gripper_switch.dae](gripper_switch.dae?raw=true)
 

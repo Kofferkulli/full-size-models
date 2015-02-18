@@ -4,9 +4,9 @@
 
 ### gripper_adapter_block
 
-![gripper_adapter_block](gripper/gripper_adapter_block/preview.png)
+![gripper_adapter_block](preview.png)
 
-* [gripper_adapter_block.STP](gripper/gripper_adapter_block/gripper_adapter_block.STP?raw=true)
-* [gripper_adapter_block.dae](gripper/gripper_adapter_block/gripper_adapter_block.dae?raw=true)
-* [gripper_adapter_block.wrl](gripper/gripper_adapter_block/gripper_adapter_block.wrl?raw=true)
+* [gripper_adapter_block.STP](gripper_adapter_block.STP?raw=true)
+* [gripper_adapter_block.dae](gripper_adapter_block.dae?raw=true)
+* [gripper_adapter_block.wrl](gripper_adapter_block.wrl?raw=true)
 

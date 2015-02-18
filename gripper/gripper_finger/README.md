@@ -4,7 +4,7 @@
 
 ### gripper_finger
 
-![gripper_finger](gripper/gripper_finger/preview.png)
+![gripper_finger](preview.png)
 
-* [gripper_finger.dae](gripper/gripper_finger/gripper_finger.dae?raw=true)
+* [gripper_finger.dae](gripper_finger.dae?raw=true)
 

@@ -4,7 +4,7 @@
 
 ### mps_ring
 
-![mps_ring](mps/mps_ring/preview.png)
+![mps_ring](preview.png)
 
-* [mps_ring.wrl](mps/mps_ring/mps_ring.wrl?raw=true)
+* [mps_ring.wrl](mps_ring.wrl?raw=true)
 

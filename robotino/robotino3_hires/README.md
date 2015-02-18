@@ -4,7 +4,7 @@
 
 ### robotino3_hires
 
-![robotino3_hires](robotino/robotino3_hires/preview.png)
+![robotino3_hires](preview.png)
 
-* [robotino3_hires.blend](robotino/robotino3_hires/robotino3_hires.blend?raw=true)
+* [robotino3_hires.blend](robotino3_hires.blend?raw=true)
 

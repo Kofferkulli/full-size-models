@@ -4,8 +4,8 @@
 
 ### robotino_tower_front_plate
 
-![robotino_tower_front_plate](robotino/robotino_tower_front_plate/preview.png)
+![robotino_tower_front_plate](preview.png)
 
-* [robotino_tower_front_plate.stp](robotino/robotino_tower_front_plate/robotino_tower_front_plate.stp?raw=true)
-* [robotino_tower_front_plate.wrl](robotino/robotino_tower_front_plate/robotino_tower_front_plate.wrl?raw=true)
+* [robotino_tower_front_plate.stp](robotino_tower_front_plate.stp?raw=true)
+* [robotino_tower_front_plate.wrl](robotino_tower_front_plate.wrl?raw=true)
 

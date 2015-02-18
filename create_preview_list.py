@@ -36,7 +36,7 @@ def walk_dir_rec(level, curr_dir):
 
 	if level > 1:
 		f = open(os.path.join(curr_dir,"README.md"), 'w+')
-		f.write(script_note + fileContent)    
+		f.write(script_note + fileContent.replace("("+curr_dir[2:]+"/","("))    
 		f.close()
 
 

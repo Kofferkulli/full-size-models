@@ -4,9 +4,9 @@
 
 ### ring
 
-![ring](products/ring/preview.png)
+![ring](preview.png)
 
-* [ring.dae](products/ring/ring.dae?raw=true)
-* [ring.stl](products/ring/ring.stl?raw=true)
-* [ring.stp](products/ring/ring.stp?raw=true)
+* [ring.dae](ring.dae?raw=true)
+* [ring.stl](ring.stl?raw=true)
+* [ring.stp](ring.stp?raw=true)
 

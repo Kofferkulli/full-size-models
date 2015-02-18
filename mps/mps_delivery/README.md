@@ -4,7 +4,7 @@
 
 ### mps_delivery
 
-![mps_delivery](mps/mps_delivery/preview.png)
+![mps_delivery](preview.png)
 
-* [mps_delivery.wrl](mps/mps_delivery/mps_delivery.wrl?raw=true)
+* [mps_delivery.wrl](mps_delivery.wrl?raw=true)
 

@@ -4,8 +4,8 @@
 
 ### robotino_tower
 
-![robotino_tower](robotino/robotino_tower/preview.png)
+![robotino_tower](preview.png)
 
-* [robotino_tower.STP](robotino/robotino_tower/robotino_tower.STP?raw=true)
-* [robotino_tower.wrl](robotino/robotino_tower/robotino_tower.wrl?raw=true)
+* [robotino_tower.STP](robotino_tower.STP?raw=true)
+* [robotino_tower.wrl](robotino_tower.wrl?raw=true)
 

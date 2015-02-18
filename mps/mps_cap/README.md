@@ -5,5 +5,5 @@
 ### mps_cap
 
 
-* [mps_cap.wrl](mps/mps_cap/mps_cap.wrl?raw=true)
+* [mps_cap.wrl](mps_cap.wrl?raw=true)
 

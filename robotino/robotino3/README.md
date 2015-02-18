@@ -4,7 +4,7 @@
 
 ### robotino3
 
-![robotino3](robotino/robotino3/preview.png)
+![robotino3](preview.png)
 
-* [robotino3.dae](robotino/robotino3/robotino3.dae?raw=true)
+* [robotino3.dae](robotino3.dae?raw=true)
 

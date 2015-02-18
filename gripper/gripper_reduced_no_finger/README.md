@@ -4,7 +4,7 @@
 
 ### gripper_reduced_no_finger
 
-![gripper_reduced_no_finger](gripper/gripper_reduced_no_finger/preview.png)
+![gripper_reduced_no_finger](preview.png)
 
-* [gripper_reduced_no_finger.dae](gripper/gripper_reduced_no_finger/gripper_reduced_no_finger.dae?raw=true)
+* [gripper_reduced_no_finger.dae](gripper_reduced_no_finger.dae?raw=true)
 

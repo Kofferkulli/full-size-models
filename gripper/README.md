@@ -6,41 +6,41 @@
 
 ### gripper_adapter_block
 
-![gripper_adapter_block](gripper/gripper_adapter_block/preview.png)
+![gripper_adapter_block](gripper_adapter_block/preview.png)
 
-* [gripper_adapter_block.STP](gripper/gripper_adapter_block/gripper_adapter_block.STP?raw=true)
-* [gripper_adapter_block.dae](gripper/gripper_adapter_block/gripper_adapter_block.dae?raw=true)
-* [gripper_adapter_block.wrl](gripper/gripper_adapter_block/gripper_adapter_block.wrl?raw=true)
+* [gripper_adapter_block.STP](gripper_adapter_block/gripper_adapter_block.STP?raw=true)
+* [gripper_adapter_block.dae](gripper_adapter_block/gripper_adapter_block.dae?raw=true)
+* [gripper_adapter_block.wrl](gripper_adapter_block/gripper_adapter_block.wrl?raw=true)
 
 ### gripper_adapter_plate
 
-![gripper_adapter_plate](gripper/gripper_adapter_plate/preview.png)
+![gripper_adapter_plate](gripper_adapter_plate/preview.png)
 
-* [gripper_adapter_plate.STP](gripper/gripper_adapter_plate/gripper_adapter_plate.STP?raw=true)
-* [gripper_adapter_plate.dae](gripper/gripper_adapter_plate/gripper_adapter_plate.dae?raw=true)
-* [gripper_adapter_plate.wrl](gripper/gripper_adapter_plate/gripper_adapter_plate.wrl?raw=true)
+* [gripper_adapter_plate.STP](gripper_adapter_plate/gripper_adapter_plate.STP?raw=true)
+* [gripper_adapter_plate.dae](gripper_adapter_plate/gripper_adapter_plate.dae?raw=true)
+* [gripper_adapter_plate.wrl](gripper_adapter_plate/gripper_adapter_plate.wrl?raw=true)
 
 ### gripper_finger
 
-![gripper_finger](gripper/gripper_finger/preview.png)
+![gripper_finger](gripper_finger/preview.png)
 
-* [gripper_finger.dae](gripper/gripper_finger/gripper_finger.dae?raw=true)
+* [gripper_finger.dae](gripper_finger/gripper_finger.dae?raw=true)
 
 ### gripper_full
 
-![gripper_full](gripper/gripper_full/preview.png)
+![gripper_full](gripper_full/preview.png)
 
-* [gripper_full.wrl](gripper/gripper_full/gripper_full.wrl?raw=true)
+* [gripper_full.wrl](gripper_full/gripper_full.wrl?raw=true)
 
 ### gripper_reduced_no_finger
 
-![gripper_reduced_no_finger](gripper/gripper_reduced_no_finger/preview.png)
+![gripper_reduced_no_finger](gripper_reduced_no_finger/preview.png)
 
-* [gripper_reduced_no_finger.dae](gripper/gripper_reduced_no_finger/gripper_reduced_no_finger.dae?raw=true)
+* [gripper_reduced_no_finger.dae](gripper_reduced_no_finger/gripper_reduced_no_finger.dae?raw=true)
 
 ### gripper_switch
 
-![gripper_switch](gripper/gripper_switch/preview.png)
+![gripper_switch](gripper_switch/preview.png)
 
-* [gripper_switch.dae](gripper/gripper_switch/gripper_switch.dae?raw=true)
+* [gripper_switch.dae](gripper_switch/gripper_switch.dae?raw=true)
 

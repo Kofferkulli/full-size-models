@@ -4,9 +4,9 @@
 
 ### gripper_adapter_plate
 
-![gripper_adapter_plate](gripper/gripper_adapter_plate/preview.png)
+![gripper_adapter_plate](preview.png)
 
-* [gripper_adapter_plate.STP](gripper/gripper_adapter_plate/gripper_adapter_plate.STP?raw=true)
-* [gripper_adapter_plate.dae](gripper/gripper_adapter_plate/gripper_adapter_plate.dae?raw=true)
-* [gripper_adapter_plate.wrl](gripper/gripper_adapter_plate/gripper_adapter_plate.wrl?raw=true)
+* [gripper_adapter_plate.STP](gripper_adapter_plate.STP?raw=true)
+* [gripper_adapter_plate.dae](gripper_adapter_plate.dae?raw=true)
+* [gripper_adapter_plate.wrl](gripper_adapter_plate.wrl?raw=true)
 
